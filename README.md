@@ -8,10 +8,10 @@
 ---
 
 ### 👩‍💻 About Me
-- 📊 Passionate about **data-driven decision-making & storytelling**
-- 📈 Strong interest in **data visualization, dashboards & business insights**
+- 📊 Passionate about **data-driven decision making & storytelling**
+- 📈 Interested in **data visualization, dashboards & business insights**
 - 🧠 Continuously learning **advanced analytics techniques**
-- 👨‍💻 Explore my projects: <a href="https://github.com/sharadashenoy18">github.com/sharadashenoy18</a>
+- 👨‍💻 View my projects: <a href="https://github.com/sharadashenoy18">github.com/sharadashenoy18</a>
 
 ---
 
@@ -30,7 +30,7 @@
 ### 📊 Analytics & Data Skills
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" height="40" title="Power BI"/>
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="40" height="40" title="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40" height="40" title="Tableau"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" height="40" title="Excel"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" title="SQL"/>
@@ -38,10 +38,9 @@
   <img src="https://www.r-project.org/logo/Rlogo.svg" width="40" height="40" title="R Programming"/>
 </p>
 
-
 ---
 
-### ⚙️ Supporting Tools & Technologies
+### ⚙️ Supporting Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>
 </p>
