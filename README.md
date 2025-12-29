@@ -30,13 +30,14 @@
 ### 📊 Analytics & Data Skills
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" height="40" title="Power BI"/>
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="40" height="40" title="Tableau"/>
+  <img src="https://cdn.simpleicons.org/tableau/E97627" width="40" height="40" title="Tableau"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" height="40" title="Excel"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" title="SQL"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" title="MS SQL Server"/>
   <img src="https://www.r-project.org/logo/Rlogo.svg" width="40" height="40" title="R Programming"/>
 </p>
+
 
 ---
 
