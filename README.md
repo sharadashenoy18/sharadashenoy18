@@ -47,11 +47,3 @@
 
 ---
 
-### 📈 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharadashenoy18&layout=compact" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharadashenoy18&show_icons=true" />
-</p>
